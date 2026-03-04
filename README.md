@@ -1,5 +1,5 @@
 # AstraLinux4Normal
 
-**AstraLinux4Normal** - это набор скриптов которые делают Astra Linux лучше.
+**Зеркало Astra Linux 1** - https://mirror.yandex.ru/astra/
 
-**Зеркало Astra Linux** - https://mirror.yandex.ru/astra/
+**Зеркало Astra Linux 2** - https://dl.astralinux.ru/astra/
