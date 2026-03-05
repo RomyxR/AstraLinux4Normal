@@ -4,4 +4,4 @@
 
 **Зеркало Astra Linux 2** - https://dl.astralinux.ru/astra/
 
-**Репозиторий Astra Linux orel** - `deb https:/dl.astralinux.ru/2.12_x86-64/repository/ orel main contrib non-free`
+**Репозиторий Astra Linux orel** - `deb https:/dl.astralinux.ru/astra/stable/2.12_x86-64/repository/ orel main contrib non-free`
